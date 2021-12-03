@@ -1,8 +1,9 @@
 # CSCI544 project
 
-Jianing Chen, Ruoyu Li, Connie Liang, Mengsha Wen, Di Wu
+## Adversarial Attack Against Fake News Detection NLP Model
 
-Adversarial Attack Against Fake News Detection NLP Model
+#### Jianing Chen, Ruoyu Li, Connie Liang, Mengsha Wen, Di Wu
+
 
 We using Bert to classify the news, and analyze the attacking success rate and running time of 5 methods for generating fake news.
 
