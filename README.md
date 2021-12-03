@@ -4,13 +4,15 @@
 
 #### Jianing Chen, Ruoyu Li, Connie Liang, Mengsha Wen, Di Wu
 
+Here is our presentation on youtube: [LINK](https://youtu.be/2Vs-euPTrc0)
 
-We use pre-trained model Bertweet and Flair to classify the news, and analyze the attacking success rate and running time of 5 methods for generating adversarial examples.
+<br/>We use pre-trained model Bertweet and Flair to classify the news, and analyze the attacking success rate and running time of 5 methods for generating adversarial examples.
 
 ### Code
- TextAttack.ipynbthe is the code we ran to get experiment results. Since in this project, we put our concentration on analysis, we used the following articles' codes as reference and did minor modificaitons:
+ TextAttack.ipynbthe is the code we ran to get experiment results. In this project, since we put our concentration on analysis, we used the following articles' codes as reference and did minor modificaitons:
  <br/>[Flair Framework](https://github.com/flairNLP/flair)
  <br/>[TextAttack](https://github.com/QData/TextAttack)
+ <br/>[FakeNewsDetection](https://github.com/nicolaischneider/FakeNewsDetectionVulnerability)
 
 ### Raw Data
  True.csv, False.csv and fake_or_real_news.csv are the raw data we use for classification. References are in our report.
