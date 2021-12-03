@@ -9,8 +9,8 @@ We use pre-trained model Bertweet and Flair to classify the news, and analyze th
 
 ### Code
  TextAttack.ipynbthe is the code we ran to get experiment results. Since in this project, we put our concentration on analysis, we used the following articles' codes as reference and did minor modificaitons:
- [Flair Framework](https://github.com/flairNLP/flair)
- [TextAttack](https://github.com/QData/TextAttack)
+ <br/>[Flair Framework](https://github.com/flairNLP/flair)
+ <br/>[TextAttack](https://github.com/QData/TextAttack)
 
 ### Raw Data
  True.csv, False.csv and fake_or_real_news.csv are the raw data we use for classification. References are in our report.
