@@ -9,10 +9,12 @@ We using Bert to classify the news, and analyze the attacking success rate and r
 
 ### Data file
  True.csv, False.csv and fake_or_real_news.csv are the raw data we use for classification.
+ 
  dataforattacking.csv is the data prepared for attacking.
  
 ### code file 
-data_preprocessing.ipynb is the preprocessing code for classification. 
-dataforattacking_15000.ipynb and dataforattacking_35000.ipynb are processing the useable data for attacking.
+ data_preprocessing.ipynb is the preprocessing code for classification. 
+
+ dataforattacking_15000.ipynb and dataforattacking_35000.ipynb are processing the useable data for attacking.
 
 
