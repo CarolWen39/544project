@@ -3,6 +3,7 @@
 ## Adversarial Attack Against Fake News Detection NLP Model
 
 #### Jianing Chen, Ruoyu Li, Connie Liang, Mengsha Wen, Di Wu
+Here is the report: [LINK](https://github.com/CarolWen39/544project/blob/main/Report.pdf)
 
 Here is our presentation on youtube: [LINK](https://youtu.be/2Vs-euPTrc0)
 
